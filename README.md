@@ -4,7 +4,7 @@ I'm studying various programming langauge.
 - c like (c, c++, c#)
 - python
 - flutter
-- web
+- web (HTML, css, javascript)
 - java (not yet)
 
 This GitHub Profile will be portfolio in a few years maybe.
