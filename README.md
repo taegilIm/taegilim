@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm studying various programming langauge.
-- c like (c, c++, c#)
+- c (c, c++, c#)
 - python
 - flutter
 - web (HTML, css, javascript)
