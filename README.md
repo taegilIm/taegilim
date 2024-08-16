@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm studying various programming langauge.
+This GitHub Profile will be portfolio in a few years maybe.
+
 <!--
 **taegilIm/taegilim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
