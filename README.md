@@ -6,6 +6,7 @@ I'm studying various programming langauge.
 - flutter
 - web (HTML, css, javascript)
 - java (not yet)
+- kotlin
 
 This GitHub Profile will be portfolio in a few years maybe.
 
